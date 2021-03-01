@@ -4,19 +4,15 @@ Built in Java, this program runs a server with multiple clients and allows for c
 Please following the instructions below to carry out the following tasks.
 
 1. Communication between server and client:
-<ol type="a">
-  <li>Run ChatServer.java.</li>
-  <li>Run ChatClient.java.</li>
-  <li>Type a message.</li>
-</ol>
-        - Run ChatServer.java.
-        - Run ChatClient.java.
-        - Type a message.
+
+        1. Run ChatServer.java.
+        2. Run ChatClient.java.
+        3. Type a message.
 
 2.  Allowing multiple clients to run:
-        a. Run ChatServer.java.
-        b. Run ChatClient.java.
-        c. Run ChatClient.java again.
+        1. Run ChatServer.java.
+        2. Run ChatClient.java.
+        3. Run ChatClient.java again.
 
     Syntax for clients to speak to each other:
 
@@ -29,21 +25,21 @@ Please following the instructions below to carry out the following tasks.
         Type 'logoff' then disconnect.
 
 3. Communication between client and chat bot:
-        a. Run ChatServer.java.
-        b. Run ChatClient.java.
-        c. Run ChatBot.java.
-        d. Type a message.
-        e. Receive message from chat bot.
+        1. Run ChatServer.java.
+        2. Run ChatClient.java.
+        3. Run ChatBot.java.
+        4. Type a message.
+        5. Receive message from chat bot.
 
 4. Client connecting to different ip addresses or ports (Input in linux terminal):
 
-        a. different port:
+        1. different port:
         java ChatClient −ccp 14003
 
-        b. different ip:
+        2. different ip:
         java ChatClient −cca 192.168.10.250
 
-        c. different port and ip:
+        3. different port and ip:
         java ChatClient −cca 192.168.10.250 -ccp 14003
 
 5. Server connecting to different port (Input in linux terminal):
