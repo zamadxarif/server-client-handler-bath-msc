@@ -1,4 +1,5 @@
 # Server Client Handler
+Built in Java, this program runs a server with multiple clients and allows for communication between all entities.
 
 Please following the instructions below to carry out the following tasks.
 
