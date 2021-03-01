@@ -10,6 +10,7 @@ Please following the instructions below to carry out the following tasks.
         3. Type a message.
 
 2.  Allowing multiple clients to run:
+
         1. Run ChatServer.java.
         2. Run ChatClient.java.
         3. Run ChatClient.java again.
@@ -25,6 +26,7 @@ Please following the instructions below to carry out the following tasks.
         Type 'logoff' then disconnect.
 
 3. Communication between client and chat bot:
+
         1. Run ChatServer.java.
         2. Run ChatClient.java.
         3. Run ChatBot.java.
