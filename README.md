@@ -4,9 +4,14 @@ Built in Java, this program runs a server with multiple clients and allows for c
 Please following the instructions below to carry out the following tasks.
 
 1. Communication between server and client:
-        a. Run ChatServer.java.
-        b. Run ChatClient.java.
-        c. Type a message.
+<ol type="a">
+  <li>Run ChatServer.java.</li>
+  <li>Run ChatClient.java.</li>
+  <li>Type a message.</li>
+</ol>
+        - Run ChatServer.java.
+        - Run ChatClient.java.
+        - Type a message.
 
 2.  Allowing multiple clients to run:
         a. Run ChatServer.java.
